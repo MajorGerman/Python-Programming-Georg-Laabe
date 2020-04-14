@@ -1,6 +1,15 @@
 # Image Transform PyGame
 Практическая работа по Image и Transofrm из PyGame про машинку (Домашнее обучение)
 
+# Ping-Pong
+Практическая работа по модулю PyGame с пародией на игру Pong (Домашнее обучение)
+
+# SoundMixer_SpriteGroup_Georg_Laabe
+Практическая работа по Sound Mixer из PyGame про машинки (Домашнее обучение)
+
+# Sprite_Group_Georg_Laabe
+Практическая работа по Sprite Group из PyGame про машинки (Домашнее обучение)
+
 # SuperTicTacToe
 Игра "Крестики-Нолики" на PyGame, доведенная почти до идеала
 
