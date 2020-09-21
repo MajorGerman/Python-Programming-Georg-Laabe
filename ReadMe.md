@@ -1,8 +1,14 @@
+# Ping-Pong
+Практическая работа по модулю PyGame
+
 # Image Transform PyGame
 Практическая работа по Image и Transofrm из PyGame про машинку (Домашнее обучение)
 
 # Ping-Pong
 Практическая работа по модулю PyGame с пародией на игру Pong (Домашнее обучение)
+
+# Snake28
+Змейка (будет нейронная сеть)
 
 # SoundMixer_SpriteGroup_Georg_Laabe
 Практическая работа по Sound Mixer из PyGame про машинки (Домашнее обучение)
